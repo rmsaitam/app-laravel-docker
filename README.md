@@ -67,7 +67,9 @@ Estando OK, acesse o container
 `php artisan key:generate`
 
 No browser acesse http://localhost irá exibir a página default do Laravel
-Para acessar o Adminer http://localhost:8081
+
+Para acessar o Adminer http://localhost:8081 , utilize as credenciais que definiu nas variáveis MYSQL_ROOT_PASSWORD
+
 Para acessar o MailHog (webmail) http://localhost:8025 
 
 Feito!
