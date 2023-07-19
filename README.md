@@ -22,7 +22,7 @@ DB_PASSWORD=secret
 
 ```
 
-Acessar o diretório app-laravel-docker/laradock
+Acessar o diretório laradock
 
 Renomar o arquivo .env.example para .env
 
