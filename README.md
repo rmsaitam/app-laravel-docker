@@ -20,6 +20,15 @@ DB_DATABASE=app-laravel
 DB_USERNAME=root
 DB_PASSWORD=secret
 
+MAIL_MAILER=smtp
+MAIL_HOST=mailhog
+MAIL_PORT=1025
+MAIL_USERNAME=null
+MAIL_PASSWORD=null
+MAIL_ENCRYPTION=null
+MAIL_FROM_ADDRESS="no-reply@applaravel.com"
+MAIL_FROM_NAME="${APP_NAME}"
+
 ```
 
 Acessar o diretório laradock
