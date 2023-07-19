@@ -1,5 +1,7 @@
 Forkar e clonar o repositório
 
+Premissas: Ter o Git, Docker e Docker-compose instalado
+
 `git clone --recurse-submodules --remote-submodules git@github.com:rmsaitam/app-laravel-docker.git`
 
 Acessar o diretório app-laravel-docker
